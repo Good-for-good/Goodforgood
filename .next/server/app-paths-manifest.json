@@ -1,0 +1,12 @@
+{
+  "/trustees/page": "app/trustees/page.js",
+  "/page": "app/page.js",
+  "/members/page": "app/members/page.js",
+  "/links/page": "app/links/page.js",
+  "/expenses/page": "app/expenses/page.js",
+  "/donors/page": "app/donors/page.js",
+  "/donations/page": "app/donations/page.js",
+  "/workshops/page": "app/workshops/page.js",
+  "/meetings/page": "app/meetings/page.js",
+  "/activities/page": "app/activities/page.js"
+}
